@@ -24,8 +24,8 @@ A PyQt5 application to track user activity on various applications and websites,
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/activity-tracker.git
-    cd activity-tracker
+    git clone https://github.com/keshav861/automatic-app-time-tracker.git
+    cd automatic-app-time-tracker
     ```
 
 2. **Create a virtual environment and activate it (optional but recommended):**
@@ -46,7 +46,7 @@ A PyQt5 application to track user activity on various applications and websites,
 1. **Run the application:**
 
     ```bash
-    python activity_tracker.py
+    python tracker.py
     ```
 
 2. **Features:**
@@ -62,12 +62,12 @@ A PyQt5 application to track user activity on various applications and websites,
 ## File Structure
 
 ```plaintext
-activity-tracker/
+automatic-app-time-tracker/
 ├── icons/
 │   ├── download_icon.png
 │   ├── download_report_icon.png
 │   ├── report_icon.png
 │   └── tracker_icon.png
-├── activity_tracker.py
+├── tracker.py
 ├── requirements.txt
 └── README.md
